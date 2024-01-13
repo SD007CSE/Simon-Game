@@ -38,7 +38,7 @@ The **Simon Game** is a web-based memory and pattern recognition game. The proje
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone 
+    git clone https://github.com/SD007CSE/Simon-Game.git
     ```
 
 2. Open the `index.html` file in a web browser.
